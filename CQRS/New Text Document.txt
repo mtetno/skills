@@ -1,0 +1,33 @@
+https://www.infoq.com/presentations/cqrs-event-spring-boot-axon/?itm_source=presentations_about_eventsourcing&itm_medium=link&itm_campaign=eventsourcing
+
+Microservices: Quick Book: A practical guide with examples using Spring Boot, Cloud Config, Cloud Bus, Cloud Security, Eureka, Hystrix, Axon with CQRS and Event Sourcing
+
+
+Microservice Registration and Discovery with Spring cloud using Netflix Eureka
+https://www.javainuse.com/spring/spring_eurekaregister2
+
+Spring Cloud Tutorial - Secure Secrets using Spring Cloud Config + Vault Example
+https://www.javainuse.com/spring/cloud-vault
+
+
+Event Sourcing and CQRS with Axon and Spring Boot – Part 1
+http://progressivecoder.com/event-sourcing-and-cqrs-with-axon-and-spring-boot-part-1/
+
+
+care@yespainter.com.
+Qwerty123!@#00
+
+
+CQRS :
+https://www.bursahaga.com/
+
+
+https://benwilcock.wordpress.com/tag/axonframework/
+
+
+https://blog.nebrass.fr/playing-with-cqrs-and-event-sourcing-in-spring-boot-and-axon/
+https://github.com/nebrass/playing-with-cqrs-and-event-sourcing-in-spring-boot-and-axon
+
+https://dzone.com/search?page=1
+
+https://www.confluent.io/blog/event-sourcing-cqrs-stream-processing-apache-kafka-whats-connection/
